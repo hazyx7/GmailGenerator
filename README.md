@@ -29,13 +29,6 @@ All these will still reach **yourname@gmail.com**.
 
 ---
 
-## 📁 File Info
-
-| File                         | Description                     |
-|------------------------------|----------------------------------|
-| `GmailVariationGenerator.exe` | The full Windows executable      |
-
----
 
 ## 📎 Source Code
 
