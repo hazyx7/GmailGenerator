@@ -14,6 +14,7 @@ yourname@gmail.com
 y.ourname@gmail.com
 your.n.a.m.e+3@gmail.com
 ```
+
 All of these will still reach **yourname@gmail.com**.
 
 ---
@@ -37,8 +38,10 @@ You can view the full source code [here](https://github.com/hazyx7/GmailGenerato
 
 ## 💡 Credits
 
-This project was inspired by [dekrypted's email-generator](https://github.com/dekrypted/email-generator), big thanks to them for the original idea!
+This project was inspired by [dekrypted's email-generator](https://github.com/dekrypted/email-generator) — big thanks to them for the original idea!
+
 ---
+
 ## 📬 Contact
 
 Have questions or suggestions?  
