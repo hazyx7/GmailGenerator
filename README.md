@@ -38,7 +38,7 @@ You can view the full source code [here](https://github.com/hazyx7/GmailGenerato
 
 ## 💡 Credits
 
-This project was inspired by [dekrypted's email-generator](https://github.com/dekrypted/email-generator) — big thanks to them for the original idea!
+This project was inspired by [dekrypted's email-generator](https://github.com/dekrypted/email-generator) — big thanks to him for the original idea!
 
 ---
 
