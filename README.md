@@ -1,8 +1,6 @@
 # Gmail Variation Generator
 
-A simple, clean desktop tool that generates multiple Gmail address variations using dot and plus (`+`) tricks — all in a single click.
 
----
 
 ## ⚙️ What It Does
 
